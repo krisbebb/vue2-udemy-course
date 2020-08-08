@@ -10,8 +10,8 @@
 - [x] Section 6: Moving to a "Real" Development Workflow with Webpack and Vue CLI
 - [x] Section 7: An Introduction to Components
 - [x] Section 8: Communicating Between Components
-- [ ] Section 9: Advanced Component Usage
-- [ ] Section 10: Second Course Project - Wonderful Quotes
+- [x] Section 9: Advanced Component Usage
+- [x] Section 10: Second Course Project - Wonderful Quotes
 - [ ] Section 11: Handling User Input with Forms
 - [ ] Section 12:
 - [ ] Section 13:
