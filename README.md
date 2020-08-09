@@ -12,7 +12,7 @@
 - [x] Section 8: Communicating Between Components
 - [x] Section 9: Advanced Component Usage
 - [x] Section 10: Second Course Project - Wonderful Quotes
-- [ ] Section 11: Handling User Input with Forms
+- [x] Section 11: Handling User Input with Forms
 - [ ] Section 12: Using and Creating Directives
 - [ ] Section 13: Improving Your App with Filters and Mixins
 - [ ] Section 14: Adding Animations and Transitions
