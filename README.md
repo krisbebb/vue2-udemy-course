@@ -12,19 +12,19 @@
 - [x] Section 8: Communicating Between Components
 - [x] Section 9: Advanced Component Usage
 - [x] Section 10: Second Course Project - Wonderful Quotes
-- [ ] Section 11: Handling User Input with Forms
-- [ ] Section 12:
-- [ ] Section 13:
-- [ ] Section 14:
-- [ ] Section 15:
-- [ ] Section 16:
-- [ ] Section 17:
-- [ ] Section 18:
-- [ ] Section 19:
-- [ ] Section 20:
-- [ ] Section 21:
-- [ ] Section 22:
-- [ ] Section 23:
-- [ ] Section 24:
-- [ ] Section 25:
-- [ ] Section 26:
+- [x] Section 11: Handling User Input with Forms
+- [ ] Section 12: Using and Creating Directives
+- [ ] Section 13: Improving Your App with Filters and Mixins
+- [ ] Section 14: Adding Animations and Transitions
+- [ ] Section 15: Connecting to Servers via Http - Using vue-resource
+- [ ] Section 16: Routing in a VueJS Application
+- [ ] Section 17: Better State Management with Vuex
+- [ ] Section 18: Final Project - The Stock Trader
+- [ ] Section 19: Deploying a VueJS Application
+- [ ] Section 20: Course Roundup
+- [ ] Section 21: All Course Exercises "Time to Practice"
+- [ ] Section 22: Bonus: Using axios instead of vue-resource  
+- [ ] Section 23: Bonus: Authentication in Vue Apps
+- [ ] Section 24: Bonus: Form Input Validation
+- [ ] Section 25: Bonus: Vue CLI 3
+- [ ] Section 26: More Content
