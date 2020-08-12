@@ -15,8 +15,8 @@
 - [x] Section 11: Handling User Input with Forms
 - [x] Section 12: Using and Creating Directives
 - [x] Section 13: Improving Your App with Filters and Mixins
-- [ ] Section 14: Adding Animations and Transitions
-- [ ] Section 15: Connecting to Servers via Http - Using vue-resource
+- [x] Section 14: Adding Animations and Transitions
+- [x] Section 15: Connecting to Servers via Http - Using vue-resource
 - [ ] Section 16: Routing in a VueJS Application
 - [ ] Section 17: Better State Management with Vuex
 - [ ] Section 18: Final Project - The Stock Trader
