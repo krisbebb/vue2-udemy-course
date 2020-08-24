@@ -18,7 +18,7 @@
 - [x] Section 14: Adding Animations and Transitions
 - [x] Section 15: Connecting to Servers via Http - Using vue-resource
 - [x] Section 16: Routing in a VueJS Application
-- [ ] Section 17: Better State Management with Vuex
+- [x] Section 17: Better State Management with Vuex
 - [ ] Section 18: Final Project - The Stock Trader
 - [ ] Section 19: Deploying a VueJS Application
 - [ ] Section 20: Course Roundup
