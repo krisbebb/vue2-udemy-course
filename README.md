@@ -20,7 +20,7 @@
 - [x] Section 16: Routing in a VueJS Application
 - [x] Section 17: Better State Management with Vuex
 - [x] Section 18: Final Project - The Stock Trader
-- [ ] Section 19: Deploying a VueJS Application
+- [x] Section 19: Deploying a VueJS Application
 - [ ] Section 20: Course Roundup
 - [ ] Section 21: All Course Exercises "Time to Practice"
 - [ ] Section 22: Bonus: Using axios instead of vue-resource  

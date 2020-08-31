@@ -49,7 +49,7 @@
     },
     computed: {
         insufficientQuantity() {
-            return this.quantity > this.stock.quantity
+            return +this.quantity > +this.stock.quantity
         }
     },
     methods: {
